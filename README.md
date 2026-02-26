@@ -1,4 +1,6 @@
 ### Hi there 👋
 ---
 
-I am a math student with an interest in programming.
+Welcome to my GitHub profile!
+
+My website: https://seanxie.dev/
