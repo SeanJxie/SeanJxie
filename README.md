@@ -3,4 +3,4 @@
 
 Welcome to my GitHub profile!
 
-My website: https://seanxie.dev/
+My website: (https://seanxie.dev/)[seanxie.dev]
