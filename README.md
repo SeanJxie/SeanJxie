@@ -3,6 +3,6 @@
 
 Welcome to my GitHub profile! 
 
-You'll find many of my side projects (of varying quality) here.
+In my free time, I like to learn by building. Free to look around!
 
 My website: [seanxie.dev](https://seanxie.dev/)
